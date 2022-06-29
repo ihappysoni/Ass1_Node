@@ -1,0 +1,10 @@
+Hello Good Evening, My Name is Happy Soni.
+I was born and raised in Orai , Uttar Pradesh.
+Coming to My Qualifications , I've done my bachelors in Computer Applications, and i got 9.37 average SGPA.
+I had recieved various certificates that are 
+1. TCS NQT (scored 80.16%)
+2.Data Visualization through Python
+3.Web Development from Internshala
+ I had created some projects like Blog Project using React, Netflix Clone using react and PrepBytes website clone using bHTML and CSS
+ as per my hobbies concern, i like to learn new technologies in my free times, i also like cooking sometimes. I do sketching when i'm having some bad moods .
+thats all from my side 
